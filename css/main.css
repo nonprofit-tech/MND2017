@@ -356,7 +356,7 @@ h2 {
 }
 
 .cart {
-  background-color: #b34534;  
+  background-color: #B2000F;  
   position: absolute;
   right:-200px;
   top: 37%;
@@ -381,9 +381,9 @@ h2 {
 }
 
 .cart a i {
-  font-size: 30px;  
+  font-size: 18px;  
   padding: 20px 12px;
-  background-color: #A64030; 
+  background-color: #B2000F; 
   margin-right: 3px;
 }
 
