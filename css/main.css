@@ -102,7 +102,7 @@ h2 {
 }
 
 .navbar-brand {
-  background-color: #FFCA0A;
+  background-color: #9AD90B;
   height: 90px;
   margin-bottom: 20px;
   position: relative;
@@ -116,7 +116,7 @@ h2 {
 }
 
 .navbar-right {
-  background-color: #FFCA0A;
+  background-color: #9AD90B;
   padding:0 95px 0 0;
   opacity: .9
 }
@@ -139,7 +139,7 @@ h2 {
 
 
 .fixed-menu {
-  background-color: #FFCA0A;
+  background-color: #9AD90B;
   position: fixed;
   top: 0;
 }
@@ -241,8 +241,8 @@ h2 {
 
 #main-slider 
 .carousel-indicators li {
-  background-color:#FFCA0A;
-  border: 1px solid #FFCA0A;
+  background-color:#9AD90B;
+  border: 1px solid #9AD90B;
 }
 
 #main-slider 
@@ -256,7 +256,7 @@ h2 {
 **************************/
 
 #explore {
-  background-color: #C34C39;
+  background-color: #3DBEFF;
   background-image: url("../images/event-bg.jpg");
   background-position: center bottom;
   background-size: contain;
@@ -755,7 +755,7 @@ h2 {
 }
 
 #footer a:hover {
-  color:#FFCA0A
+  color:#9AD90B
 }
 
 
