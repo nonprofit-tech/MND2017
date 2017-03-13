@@ -522,7 +522,28 @@ h2 {
   background-color: #126d55
 }
 
+.sponsor-box {
+	display: inline-table;
+	padding: 1em;
+	margin: .5em;
+	background-color: #FFFFFF;
+	border: 1px solid #233962;
+	width: 20%;
+	max-width: 300px;
+	height: 200px;
+	max-height: 200px;
+}
 
+.sponsor-logo {
+	display: table-cell;
+	max-width: 296px;
+	max-height: 196px;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: contain;
+	background-color: white;
+	padding: 4px;
+}
 
 /*************************
 ******Twitter CSS****
